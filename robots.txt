@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seoheroph.github.io/dynamic-dental-desig-1bb50/sitemap.xml
+Sitemap: https://dynamic-dental-desig-1bb50.pages.dev/sitemap.xml
